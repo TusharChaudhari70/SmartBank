@@ -1,9 +1,6 @@
 package com.smartbank.entity;
 
-import com.fasterxml.jackson.annotation.JsonManagedReference;
-
 import jakarta.persistence.*;
-import lombok.Data;
 
 @Entity
 public class User {
